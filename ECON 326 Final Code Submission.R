@@ -1,4 +1,4 @@
-###ECON 326 FINAL PROJECT (Vaishnavi Patil, Ciara Egalahewa, Simran Dhesi, Megha Shrimali, Virginia Imbraguglio, Alexandra MacPhee)
+###ECON 326 FINAL PROJECT
 
 ##Loading all the packages
 library(tidyverse)
